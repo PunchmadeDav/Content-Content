@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "contentcontent:chocolate_egg"
+  },
+  "result": "contentcontent:chocolate_rat"
+}
