@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "hanging=false,lit=true": { "model":  "contentcontent:block/soul_brazier" },
-    "hanging=true,lit=true": { "model":  "contentcontent:block/soul_brazier_held" },
-    "hanging=false,lit=false": { "model":  "contentcontent:block/unlit_brazier" },
-    "hanging=true,lit=false": { "model":  "contentcontent:block/unlit_brazier_held" }
-  }
-}

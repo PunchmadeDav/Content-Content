@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model":  "contentcontent:block/chiseled_chocolate_egg" },
-    "facing=south": { "model":  "contentcontent:block/chiseled_chocolate_egg", "y": 180 },
-    "facing=west": { "model":  "contentcontent:block/chiseled_chocolate_egg", "y": 270 },
-    "facing=east": { "model":  "contentcontent:block/chiseled_chocolate_egg", "y": 90 }
-  }
-}

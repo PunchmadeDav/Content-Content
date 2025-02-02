@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model":  "contentcontent:block/chocolate_squirrel" },
-    "facing=south": { "model":  "contentcontent:block/chocolate_squirrel", "y": 180 },
-    "facing=west": { "model":  "contentcontent:block/chocolate_squirrel", "y": 270 },
-    "facing=east": { "model":  "contentcontent:block/chocolate_squirrel", "y": 90 }
-  }
-}

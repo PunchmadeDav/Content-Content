@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model":  "contentcontent:block/ancient_vase_4" },
-    "facing=south": { "model":  "contentcontent:block/ancient_vase_4", "y": 180 },
-    "facing=west": { "model":  "contentcontent:block/ancient_vase_4", "y": 270 },
-    "facing=east": { "model":  "contentcontent:block/ancient_vase_4", "y": 90 }
-  }
-}
