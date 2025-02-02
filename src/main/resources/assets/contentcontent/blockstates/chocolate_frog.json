@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model":  "contentcontent:block/chocolate_frog" },
+    "facing=south": { "model":  "contentcontent:block/chocolate_frog", "y": 180 },
+    "facing=west": { "model":  "contentcontent:block/chocolate_frog", "y": 270 },
+    "facing=east": { "model":  "contentcontent:block/chocolate_frog", "y": 90 }
+  }
+}
